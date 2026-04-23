@@ -2,19 +2,19 @@
 
 A web-based Student Management System built with **Next.js**, supporting two user roles: **Teacher** and **Student**.
 
-## 🚀 Features
+##  Features
 
-### 👨‍🏫 Teacher
+###  Teacher
 - View and manage students
 - Assign tasks / assignments
 - Track student progress
 
-### 👨‍🎓 Student
+###  Student
 - View assigned tasks
 - Track own progress
 - Access course material
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** Next.js, React
 - **Database:** MongoDB Atlas
@@ -53,17 +53,17 @@ A web-based Student Management System built with **Next.js**, supporting two use
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 👥 User Roles
+##  User Roles
 
 | Role | Access |
 |------|--------|
 | Teacher | Manage students, assign tasks, view reports |
 | Student | View tasks, track progress |
 
-## 📦 Deployment
+##  Deployment
 
 The easiest way to deploy is via [Vercel](https://vercel.com/new). Connect your GitHub repo and add your environment variables in the Vercel dashboard.
 
-## 📄 License
+##  License
 
 This project is for educational purposes.
